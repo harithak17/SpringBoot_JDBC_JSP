@@ -1,0 +1,5 @@
+127.0.0.1 - - [30/Jan/2024:11:18:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:11:18:29 +0530] "GET /UserRegistration/index.jsp HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:11:18:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:11:18:32 +0530] "GET /UserRegistration/ViewAllServlet HTTP/1.1" 200 439
+0:0:0:0:0:0:0:1 - - [30/Jan/2024:11:18:36 +0530] "GET /UserRegistration/AddUser.jsp HTTP/1.1" 200 1518
